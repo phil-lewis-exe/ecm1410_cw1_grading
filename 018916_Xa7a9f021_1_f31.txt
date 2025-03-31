@@ -1,0 +1,66 @@
+##### ECM1410 Coursework 1 submission form #####
+
+Please complete both parts of this form and submit as a plain text file via ELE at:
+
+https://ele.exeter.ac.uk/course/view.php?id=19040#section-3
+
+Once you have finalised your work fill out the first section with the url and commit hash for each workshop by:
+
+ - checking you committed and pushed your finalised files to GitHub.
+ - running the command below from within a CodeSpace terminal of your repository.
+
+echo url $(git remote get-url origin); git log -1 | head -n 1
+
+##### PART 1: WORKSHOP GITHUB CLASSROOM SUBMISSIONS #####
+
+ADD WORKSHOP 3 INFO BELOW:
+url https://github.com/My-UofE/workshop-03-Flynnpen
+commit 24f25f309a033eb18655210fbb3288f511103bad
+
+ADD WORKSHOP 5 INFO BELOW:
+url https://github.com/My-UofE/workshop-05-Flynnpen
+commit c09db4d82ea9bbd236f19e430a70869380ea77b5
+
+ADD WORKSHOP 7 INFO BELOW:
+url https://github.com/My-UofE/workshop-07-Flynnpen
+commit 744e0ce5c46471c8d098ae397f7acf4b08600d9a
+
+ADD WORKSHOP 9 INFO BELOW:
+url https://github.com/My-UofE/workshop-09-Flynnpen
+commit 795b9e410b1f8963cae444716283263e673a985f
+
+##### PART 2: GEN AI DECLARATION #####
+
+This submission is GenAI supported and you are allowed to use GenAI to assist your coding.
+
+Submission of this file acknowledges you have adhered to the university guidance in respect to use of GenAI, plagarism and collusion.
+
+If you wish to acknowlege any significant portions of your coursework that were authored by appropriate use of GenAI tools please do so below e.g. in this assignment you might declare you made use of GenAI to generate the java documentation.
+
+ADD GEN AI DECLARATION BELOW:
+I acknowledge the following uses of GenAI tools in this assessment:
+
+[YES] I have used GenAI tools for developing ideas.
+
+[YES] I have used GenAI tools to assist with research or gathering information.
+
+[YES] I have used GenAI tools to help me understand key theories and concepts.
+
+[NO] I have used GenAI tools to identify trends and themes as part of my data analysis.
+
+[NO] I have used GenAI tools to suggest a plan or structure for my assessment.
+
+[NO] I have used GenAI tools to give me feedback on a draft.
+
+[NO] I have used GenAI tool to generate image, figures or diagrams.
+
+[NO] I have used GenAI tools to proofread and correct grammar or spelling errors.
+
+[NO] I have used GenAI tools to generate citations or references.
+
+[NO] Other [please specify]
+
+[NO] I have not used any GenAI tools in preparing this assessment.
+
+[YES] I declare that I have referenced use of GenAI outputs within my assessment in line with the University referencing guidelines.
+
